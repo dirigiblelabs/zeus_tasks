@@ -1,0 +1,22 @@
+[
+  {
+    "location":"/zeus_tasks/svc/user",
+    "roles":
+      [
+        {"role":"Everyone"}
+      ]
+  },{
+    "location":"/zeus_tasks/login",
+    "roles":
+      [
+        {"role":"Everyone"}
+      ]
+  },{
+    "location":"/zeus_tasks/index.html#/login",
+    "roles":
+      [
+        {"role":"Everyone"}
+      ]
+  }
+]
+
